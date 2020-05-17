@@ -1,21 +1,18 @@
 # Image Processing Masks-Convolution
 
-Developing from Scratch Filters that change Images and apply them via Convolution With the purpose to Uderstand the Basics of Image Processing - Originally developed 04/05/2018
+The goal was the Parallel Implementation of Image Histogram achieving best possible speed and the maximum accuracy
+- Originally developed 04/11/2017
 
 
 
-## In this project it was developed 
-1. A function 
+## Goal of This project  
+The reason for the development of this project was to learn better CUDA and understand the different ways of thinking that parallel programming Needs, it was vital to understand the completly reversed way of thinking and the interesting way of development in a parallel language.
+
+Also, it was an experiment for developing an algorithm for Histogram implementation that is faster than the classic atomicAdd. In the end, it was significantly slower but it was an amazing process and learning experience none the less
 
 ## Results of the Project 
-<img src="Images/1_GrayScaleAndRGBtoBluredImages.png" width="600">
+<img src="Images/gpu.jpg" width="300">
 
-## What I learned from this Project
-
-## What was the project difficulties 
-
-## My solutions to the difficulties
-
-## Notable Features
 
 ## Technology Used 
+CUDA and MATLAB combination
