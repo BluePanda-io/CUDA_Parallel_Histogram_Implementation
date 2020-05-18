@@ -1,4 +1,4 @@
-# Image Processing Masks-Convolution
+# CUDA Parallel Histogram Implementation
 
 The goal was the Parallel Implementation of Image Histogram achieving best possible speed and the maximum accuracy
 - Originally developed 04/11/2017
